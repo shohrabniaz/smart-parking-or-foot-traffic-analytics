@@ -1,10 +1,17 @@
 {
-  "seq": 73,
   "title": "Smart Parking or Foot-Traffic Analytics",
+  "old_slug": "smart-parking-or-foot-traffic-analytics",
   "slug": "smart-parking-or-foot-traffic-analytics",
   "folder": "Smart_Parking_Or_Foot_Traffic_Analytics",
   "kind": "analytics",
-  "body_words": 231,
+  "body_words": 295,
+  "source": "MICT Academic",
   "project_id": "Academic Project 37",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }

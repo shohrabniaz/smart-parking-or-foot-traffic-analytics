@@ -1,19 +1,25 @@
 {
   "title": "Smart Parking or Foot-Traffic Analytics",
-  "seq": 73,
+  "slug": "smart-parking-or-foot-traffic-analytics",
   "kind": "analytics",
   "mode": "SyntheticBaseline",
-  "generatedUtc": "2026-11-04T17:32:17.351538+00:00",
+  "generatedUtc": "2026-11-04T17:56:56.865511+00:00",
   "author": "Md Shohrab Hossen Niaz",
-  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "publicReadiness": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  },
   "artefacts": [
     "metric dictionary",
-    "wireframe notes",
-    "sample KPI workbook"
+    "KPI workbook",
+    "design notes"
   ],
   "scoreModel": {
-    "baselineMaturity": 42,
-    "targetMaturity": 70,
-    "unit": "0-100 design-coverage index"
+    "baseline": 42,
+    "target": 75,
+    "unit": "design-coverage index"
   }
 }
