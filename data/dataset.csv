@@ -1,9 +1,9 @@
 day,category,value
-2026-11-01,bookings,42
-2026-11-01,cancellations,6
-2026-11-02,bookings,51
-2026-11-02,cancellations,4
-2026-11-03,bookings,47
-2026-11-03,cancellations,9
-2026-11-04,bookings,60
-2026-11-04,cancellations,5
+2026-11-01,smart-parking-or-foot-traffic-analytics-a,42
+2026-11-01,smart-parking-or-foot-traffic-analytics-b,6
+2026-11-02,smart-parking-or-foot-traffic-analytics-a,51
+2026-11-02,smart-parking-or-foot-traffic-analytics-b,4
+2026-11-03,smart-parking-or-foot-traffic-analytics-a,47
+2026-11-03,smart-parking-or-foot-traffic-analytics-b,9
+2026-11-04,smart-parking-or-foot-traffic-analytics-a,60
+2026-11-04,smart-parking-or-foot-traffic-analytics-b,5
